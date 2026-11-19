@@ -1,0 +1,43 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: #897171;
+  width: 280px;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  text-align: left;
+}
+
+.card h2 {
+  color: #224da8;
+  margin-bottom: 12px;
+  font-size: 21px;
+}
+
+.card-description,
+.card-children p {
+  color: #475569;
+  line-height: 1.5;
+}
+
+.card-children {
+  margin-top: 15px;
+}
+
+.card-children button {
+  margin-top: 14px;
+}
+
+.card-author {
+  display: block;
+  color: #94a3b8;
+  margin-top: auto;
+  padding-top: 18px;
+  font-size: 12px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #43494f;
+}
