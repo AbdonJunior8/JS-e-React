@@ -47,3 +47,4 @@ Projeto simples criado com React e Vite para praticar:
   <p>Este parágrafo é recebido pela prop children.</p>
 </Card>
 ```
+# JS-e-React
